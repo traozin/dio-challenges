@@ -1,4 +1,4 @@
-# Desafio de ordenação
+# Desafios de ordenação
 
 ## Introdução
 
@@ -17,9 +17,9 @@ Para mais detalhes, clique na solução de sua escolha. 😄
 
 | Nome do Projeto | Descrição | Status |
 | :---: | --- | :---: |
-| [Choosies](java/ordination/choosies) | Ordenação de números pares e ímpares | ✅ |
-| [Shopping](java/ordination/shopping) | Ordenação de lista de compras com remoção de repetidos | ✅ |
-| [Uniform](java/ordination/uniform) | Ordenação de uniformes para uma gincana com multiplas condições | ✅ |
+| [Choosies](choosies) | Ordenação de números pares e ímpares | ✅ |
+| [Shopping](shopping) | Ordenação de lista de compras com remoção de repetidos | ✅ |
+| [Uniform](uniform) | Ordenação de uniformes para uma gincana com multiplas condições | ✅ |
 | Bank queue | Ordenação de uma lista de chegada com informe de posições corretas | 🔧 |
 | Camping | Escolha de uma criança vencedora com base nas informações fornecidas | 🔧 |
 
