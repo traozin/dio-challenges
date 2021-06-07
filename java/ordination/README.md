@@ -20,6 +20,6 @@ Para mais detalhes, clique na solução de sua escolha. 😄
 | [Choosies](choosies) | Ordenação de números pares e ímpares | ✅ |
 | [Shopping](shopping) | Ordenação de lista de compras com remoção de repetidos | ✅ |
 | [Uniform](uniform) | Ordenação de uniformes para uma gincana com multiplas condições | ✅ |
-| Bank queue | Ordenação de uma lista de chegada com informe de posições corretas | 🔧 |
+| [Bank Queue](caixa) | Ordenação de uma lista de chegada com informe de posições corretas | 🔧 |
 | Camping | Escolha de uma criança vencedora com base nas informações fornecidas | 🔧 |
 
