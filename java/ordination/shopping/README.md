@@ -39,8 +39,8 @@ A saída contém N linhas, cada uma representando uma lista de compra, sem os it
           <td> Exemplo de saída </td>
         </tr>
         <tr>
-          <td> 2 <br>carne laranja suco picles laranja picles <br> laranja pera laranja pera pera </td>
-          <td> carne laranja picles suco <br> laranja pera <br> </td>
+          <td> 3 <br> suco carne frango carne chocolate <br> sacola amaciante <br> leite chocolate suco laranja</td>
+          <td> carne chocolate frango suco <br> amaciante sacola <br> chocolate laranja leite suco <br> </td>
         </tr>
       </table>
     </td>
